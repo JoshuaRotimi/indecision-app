@@ -1,0 +1,26 @@
+
+.widget {
+    color: #464b5e;
+    margin-bottom: 3.2rem;
+}
+
+.widget-message {
+    border-bottom: 1px solid #a5afd7;
+    color: #a5afd7;
+    margin: 0;
+    padding: 1.6rem;
+    text-align: center;
+}
+
+.widget-header {
+    background-color: #3c4251;
+    color: #a5afd7;
+    padding: 1.6rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.widget-header h3 {
+    margin: 0;
+}
+
